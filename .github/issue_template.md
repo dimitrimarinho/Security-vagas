@@ -1,10 +1,10 @@
 ## Descrição da vaga
 
-Projeto bazinga em Symfony, etc.
+Projeto bazinga!, etc.
 
 ## Local
 
-Remoto ou Escritório, São Paulo - Vila Olímpia
+Remoto ou Escritório, Estado - Cidade, Endereço
 
 ## Benefícios
 
@@ -12,19 +12,20 @@ Remoto ou Escritório, São Paulo - Vila Olímpia
 - monte a sua máquina como desejar
 - frigobar sempre cheio :P
 - sala de jogos
+-Certificações
 - ...
 
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com PHP 5+
-- 2 anos de experiência com mongodb
+- 3 anos de experiência com Hackinagem
+- ...
 
 **Desejáveis:**
-- conhecimentos em Laravel
+- conhecimentos em SQL, Linux...
 
 **Diferenciais:**
-- projetos opensource
+- projetos opensourcem, CTF-player...
 
 ## Contratação
 
@@ -32,7 +33,7 @@ PJ a combinar
 
 ## Nossa empresa
 
-Aqui na Corporação XPTO somos líderes em...
+Aqui na Corporação EVILCORP somos líderes em...
 
 ## Como se candidatar
 
