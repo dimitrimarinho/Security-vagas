@@ -2,7 +2,7 @@
   <img src="https://avatars0.githubusercontent.com/u/21205969?v=3&u=811926aba01e8a43d7a8ffda50b7b66a57ccdd0a" alt="PHP-DEV-BR" width="230" />
 </p>
 
-# Vagas
+# Vagas (Somente vagas de Segurança da Informação)
 
 Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
 
