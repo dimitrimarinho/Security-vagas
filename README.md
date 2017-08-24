@@ -26,6 +26,6 @@ Você pode receber atualizações das vagas no seu email ou via notificações d
 
 #### Importante
 
-Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, pedimos que os responsáveis pela vaga fechem a issue assim que possível quando ela estiver finalizada. 
+Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 14 dias (2 semanas) coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 14 dias e não tiver manutenção, a mesma será fechada por um moderador do repositório.
  
 ________
