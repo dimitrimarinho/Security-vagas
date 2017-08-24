@@ -14,6 +14,8 @@ Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre co
 
 Exemplo: `[São Paulo] Pentest`
 
+Template de vaga: https://github.com/n3k00n3/Security-vagas/blob/master/.github/issue_template.md
+
 Adicione _labels_ contendo o nível de experiência desejada e a forma de contração.
 
 ## Como receber atualizações das vagas
