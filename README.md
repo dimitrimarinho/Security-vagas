@@ -2,9 +2,9 @@
   <img src="https://" alt="Security Jobs" width="230" />
 </p>
 
-# Vagas (Somente vagas de Segurança da Informação)
+# Vagas (Segurança da Informação)
 
-Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
+Espaço para a divulgação de vagas para analistas, pentesters, consultores... via _issues_ do Github.
 
 Vagas disponíveis em https://github.com/n3k00n3/Security-vagas/issues
 
