@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/n3k00n3/Security-vagas/blob/master/security.png" alt="Security Jobs" width="230" />
+  <img src="https://github.com/n3k00n3/Security-vagas/blob/master/security.png" alt="Security Jobs" width="300" />
 </p>
 
 # Vagas (Segurança da Informação)
